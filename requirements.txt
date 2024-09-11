@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+PySimpleGUI
+keras-facenet
+mtcnn
+opencv-python
