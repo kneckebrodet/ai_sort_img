@@ -1,7 +1,14 @@
+```
+python -m venv venv
 
+venv\Scripts\activate
 
-1. まず、抽出したい顔の人の名前を記入する
-2. 2以上の対象の人の顔の写真をアップロードする（機械学習のため）
-3. 検索する写真のフォルダーをアップロードする
-4. Submitボタンを押す
-5.　抽出した写真はOutputという作成されたフォルダーに入っている
+pip install --upgrade setuptools
+
+pip install -r requirements.txt
+```
+①　insert 2 or more images of the person you are filtering and set a name
+   (can take images from random_images, just make sure its 2 or more pictures of the same person)
+   
+②　insert the folder filled with images that you wanna filter through 
+   (use random_images for testing)
