@@ -12,7 +12,7 @@ python main.py
 
 <p>
 　 <h2>① Fill in a name and insert (2 or more) images of the person you want to find</h2>
-   <h4>(the more images you train the model on, the more accurate it will be. But from clear images 2 is usually enough</h4>
+   <h4>(the more images you train the model on, the more accurate it will be. But from well displayed images two is usually enough</h4>
    <img src="https://github.com/user-attachments/assets/6aa4ec37-d920-4c56-bc14-00a890a9dac1" alt="img" width="300" height="auto" />
    <img src="https://github.com/user-attachments/assets/3cf177df-9900-4624-80a9-36f18fab6965" alt="img" width="300" height="auto" />
    <img src="https://github.com/user-attachments/assets/62e62acb-0037-443d-9035-21d25b7b7ce5" alt="img" width="300" height="auto" />
