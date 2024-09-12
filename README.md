@@ -23,7 +23,7 @@ python main.py
    <img src="https://github.com/user-attachments/assets/e60fa7e7-37ab-480f-a670-a4386074e1a2" alt="img" width="300" height="auto" />
 </p>
 <p>
-   <h2>③ After submitting, you'll get two new folders, [models] with the trained model & [output] with filtered images images</h2>
+   <h2>③ After submitting, you'll get two new folders, [models] with the trained model and [output] with filtered images images</h2>
    <img src="https://github.com/user-attachments/assets/8e616d3e-29f6-4d11-8836-2e1c1ab8ef92" alt="img" width="300" height="auto" />
    <img src="https://github.com/user-attachments/assets/5d5f9625-98b9-4ff3-a4b5-5642486b035a" alt="img" width="300" height="auto" />
    <img src="https://github.com/user-attachments/assets/a015129f-1dc9-4323-a30e-92a6a44b42b9" alt="img" width="300" height="auto" />
