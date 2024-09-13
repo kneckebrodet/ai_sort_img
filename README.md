@@ -20,7 +20,7 @@ python main.py
 <p>
    <h2>② Insert the folder that you want to filter through</h2>
    <img src="https://github.com/user-attachments/assets/1da4767f-509f-4d0c-9629-d3c6c8142320" alt="img" width="300" height="auto" />
-   <img src="https://github.com/user-attachments/assets/e60fa7e7-37ab-480f-a670-a4386074e1a2" alt="img" width="300" height="auto" />
+   <img src="https://github.com/user-attachments/assets/8352bd76-0820-4f32-acc9-98c8fcdbf94c" alt="img" width="300" height="auto" />
 </p>
 <p>
    <h2>③ After submitting, you'll get two new folders, [models] with the trained model and [output] with filtered images images</h2>
