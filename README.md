@@ -28,3 +28,7 @@ python main.py
    <img src="https://github.com/user-attachments/assets/5d5f9625-98b9-4ff3-a4b5-5642486b035a" alt="img" width="300" height="auto" />
    <img src="https://github.com/user-attachments/assets/a015129f-1dc9-4323-a30e-92a6a44b42b9" alt="img" width="300" height="auto" />
 </p>
+<p>
+   <h2>④ The model is saved so you dont need to train a new model if you are looking for the same person at a later occasion</h2>
+   <img src="https://github.com/user-attachments/assets/baee91cb-a03d-4d57-a6bb-9a6d271b9e36" alt="img" width="300" height="auto" />
+</p>
